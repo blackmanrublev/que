@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Yemi\Documents\Quant Shii\que\build\CMakeFiles\c998f0ecb1a8c3190706e9e18a65e636\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{13E2AD1B-CD3E-355E-A8D8-18A9267FCDE4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
